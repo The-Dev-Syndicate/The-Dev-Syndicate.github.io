@@ -3,8 +3,8 @@ title: Development Corps is Live
 date: 2024-04-25
 author: lvagabond
 pin: true # You can pin one or more posts to the top of the home page, and the fixed posts are sorted in reverse order according to their release date
-toc: true
-coments: false
+toc: false
+comments: false
 math: false # For website performance reasons, the mathematical feature won’t be loaded by default. But it can be enabled
 mermaid: false # Same as above but for charts and such (great tool)
 category: Announcements
