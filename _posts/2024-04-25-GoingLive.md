@@ -43,4 +43,3 @@ Warm regards,
 Lunar Vagabond  
 Founder
 **Development Corps**
-
