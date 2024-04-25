@@ -5,7 +5,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# About Development Corps
+# The Development Corps
 
 Development Corps is a vibrant community dedicated to fostering growth and learning among developers from all backgrounds and expertise levels. With our slogan, "Developing the Future," we embody the spirit of innovation and collective advancement in the tech industry.
 

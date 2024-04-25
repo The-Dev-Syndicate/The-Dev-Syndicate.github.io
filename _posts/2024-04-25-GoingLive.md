@@ -19,11 +19,3 @@ We should move this to about me but let's test some stuff!
 
 > This is an example info prompt
 {: .prompt-info }
-
-{% raw %}
-```liquid
-{% if product.title contains 'Pack' %}
-  This product's title contains the word Pack.
-{% endif %}
-```
-{% endraw %}
