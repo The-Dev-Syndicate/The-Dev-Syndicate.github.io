@@ -37,10 +37,10 @@ So what are you waiting for? Join us today and become part of something truly sp
 
 Welcome to **Development Corps**—where innovation knows no bounds!
 
-Warm regards,
+--- 
 
+Warm regards,
 Lunar Vagabond  
 Founder
 **Development Corps**
 
---- 
