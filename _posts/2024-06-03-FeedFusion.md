@@ -1,5 +1,5 @@
 ---
-title: "Feed Fusion: Your Gateway to the World of RSS and Atom Feeds"
+title: "Feed Fusion"
 date: 2024-06-03
 author: lvagabond
 pin: false
