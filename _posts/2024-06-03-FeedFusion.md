@@ -1,14 +1,14 @@
 ---
-title: "Feed Fusion"
-date: 2024-06-03
+title: Feed Fusion
+date: 2024-04-25
 author: lvagabond
-pin: false
+pin: false # You can pin one or more posts to the top of the home page, and the fixed posts are sorted in reverse order according to their release date
 toc: false
 comments: true
-math: false
-mermaid: false
+math: false # For website performance reasons, the mathematical feature won’t be loaded by default. But it can be enabled
+mermaid: false # Same as above but for charts and such (great tool)
 category: Announcements
-tags: [announcement, open-source, rss, atom, community]
+tags: [announcement, community, events]     # TAG names should always be lowercase
 ---
 
 # Introducing Feed Fusion: Explore the World of RSS and Atom Feeds!
