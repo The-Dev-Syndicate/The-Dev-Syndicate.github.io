@@ -33,7 +33,7 @@ As a flagship initiative of **Development Corps**, **Feed Fusion** embodies our 
 
 🌐 **Open Collaboration**: Join forces with other developers to create plugins, extensions, and integrations that enhance the **Feed Fusion** experience for everyone. Whether you're a seasoned pro or a newcomer to the world of open-source, there's a place for you here.
 
-So why wait? Take the first step on your journey with **Feed Fusion** today. Together, we'll revolutionize the way we consume and interact with online content, one feed at a time.
+So why wait? Take the first step on your journey with [Feed Fusion](https://github.com/Development-Corps/FeedFusion) today. Together, we'll revolutionize the way we consume and interact with online content, one feed at a time.
 
 Join us and be part of something extraordinary. Welcome to the future of feed technology—welcome to **Feed Fusion**!
 
