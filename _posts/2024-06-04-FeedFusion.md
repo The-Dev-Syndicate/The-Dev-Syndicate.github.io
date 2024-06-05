@@ -1,5 +1,5 @@
 ---
-title: Feed Fusion: Your Gateway to the World of RSS and Atom Feeds
+title: "Feed Fusion: Your Gateway to the World of RSS and Atom Feeds"
 date: 2024-06-04
 author: lvagabond
 pin: false
@@ -9,6 +9,7 @@ math: false
 mermaid: false
 category: Announcements
 tags: [announcement, open-source, rss, atom, community]
+---
 
 # Introducing Feed Fusion: Explore the World of RSS and Atom Feeds!
 
