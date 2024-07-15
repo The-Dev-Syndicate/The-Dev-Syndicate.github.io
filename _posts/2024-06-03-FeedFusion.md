@@ -1,6 +1,6 @@
 ---
 title: Feed Fusion
-date: 2024-04-25
+date: 2024-06-03
 author: lvagabond
 pin: false # You can pin one or more posts to the top of the home page, and the fixed posts are sorted in reverse order according to their release date
 toc: false
