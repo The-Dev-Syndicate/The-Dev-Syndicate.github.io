@@ -21,7 +21,7 @@ Julian's work is nothing short of amazing, and I am thrilled to show you all the
 
 Here is a sneak peek of the new avatar:
 
-![New Avatar Image](assets/img/LV.jpg)
+![New Avatar Image]({{ site.baseurl }}/assets/img/LV.png)
 
 Stay tuned for more updates and let me know what you think of the new look!
 
