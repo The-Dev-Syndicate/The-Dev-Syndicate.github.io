@@ -27,5 +27,4 @@ At The Dev Syndicate, our mission is to create a supportive and collaborative sp
 
 Are you ready to test your limits, contribute to something bigger, and unlock the hidden paths of development? The Dev Syndicate awaits, but remember—we don’t seek followers, we choose them. If you're ready to embark on a journey of growth, discovery, and innovation, you may just be chosen to join our ranks and help build the future of development in the shadows of the digital world.
 
-
-![Discord Banner 2](https://discord.com/api/guilds/998029109621968946/widget.png?style=banner2)
+[Join the Discrod today](https://discord.gg/ryMm2QCmju)
